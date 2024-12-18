@@ -1,0 +1,8 @@
+.idea
+/logs
+/data
+.env
+
+.DS_Store
+id_rsa*
+/nginx/conf.d/dev*.conf
